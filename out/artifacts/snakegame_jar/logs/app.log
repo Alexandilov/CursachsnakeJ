@@ -1,0 +1,2 @@
+2024-12-13 14:38:41 [JavaFX Application Thread] INFO  project.snakegame.Main - opening a window with a choice of difficulty
+2024-12-13 14:38:43 [JavaFX Application Thread] ERROR project.snakegame.Main - the user did not choose the difficulty
